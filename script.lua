@@ -1,4 +1,4 @@
-cd = 0.0002 -- adjust the speed as you need(in seconds)
+-- to change speed, use cd = speed(in seconds)
 
 -- getting weapon(DON'T TOUCH IT!)
 
